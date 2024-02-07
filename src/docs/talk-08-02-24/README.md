@@ -14,15 +14,12 @@
 ## Tooling & IDE
 
 - GitHub Copilot Extension for VSCode ([see](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot))
+- GitHub Copilot Chat Extension ([see](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat))
+- Inline chat (⌘I)
 - The way I set up the repo
   No need to go away from the code to look for the documentation (Stack Overflow, MDN, etc.)
 
 ## Live coding (15 mins)
-
-### CSS styling
-
-- BEM, utility classes suggestions
-- CSS variables
 
 ### Documentation, comments, READMEs
 
@@ -35,11 +32,28 @@
 - README
   Copilot helped me to write the README for this talk.
 
+### Explaining code
+
 ### Quick, repetitive actions
 
 - data-testid
 - mock data following type/interface
 - config objects
+
+### CSS styling
+
+- BEM, utility classes suggestions
+- CSS variables
+
+### Tests
+
+- covering components with tests
+- mocking data
+- rate the test case
+
+### Linting
+
+- fix with Copilot
 
 ## Q/A (10 mins)
 
